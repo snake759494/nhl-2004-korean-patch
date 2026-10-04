@@ -1,0 +1,11 @@
+{
+  "ko.json": {
+    "DYNASTY MODE": "다이너스티 모드",
+    "Start Game": "경기 시작",
+    "Controller Settings": "컨트롤러 설정",
+    "unused_503846b009b5eb255f32f5f37b6511cba89d00cbf6b03901bbc90001a5b7ddc4": "한 단계 상승할 때마다: 원정 경기에서 모든 선수의 능력치 1~2 증가"
+  },
+  "scoreboard.ko.json": {
+    "SJS": "새너"
+  }
+}

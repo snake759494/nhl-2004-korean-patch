@@ -1,0 +1,70 @@
+{
+  "SLUS_207.56": {
+    "size": 6756012,
+    "sha256": "f0461c52962254d9ffc9a052c9bed7837313b8cd605adbd9ded228e4a7ac5985"
+  },
+  "FE/LOCAL.VIV": {
+    "size": 430080,
+    "sha256": "4e3dc7691996dfa2a8186afe63e009bf02f1b1972c1fddb8f15bb18bcac0ce65"
+  },
+  "FE/FE_FONTS.VIV": {
+    "size": 1202176,
+    "sha256": "9a589d3eecb26adc685098c588cf881677f3a33f2979a1282564c86fde08171c"
+  },
+  "PRELOAD.VIV": {
+    "size": 1370480,
+    "sha256": "ff9f1fb2e33029c8a9ca6e95e8333e1a17899f3823e16d4ca78acd4d1a385747"
+  },
+  "UGI/UGIALL.VIV": {
+    "size": 487424,
+    "sha256": "bb97a10f78b3dd51faff97e34b8e88338d57052d69ca362c0cb6136687555211"
+  },
+  "GAMEDATA/CHARACS.VIV": {
+    "size": 253520,
+    "sha256": "bbf08461d8d65472d17e8adeec639a14dd94fbc442cff921515cecc06de3cda7"
+  },
+  "DB/DB.VIV": {
+    "size": 745472,
+    "sha256": "64429bfcf6d167751f5da6dd56bd4a8b4cd9a0f0e1279ff07c864a4c7e242004"
+  },
+  "DB/TUNING.VIV": {
+    "size": 137216,
+    "sha256": "a1e730906e1bee2d547d565eecf440b88427462ed6069111ccd91e21e15da264"
+  },
+  "FE/FE_ART.VIV": {
+    "size": 1010176,
+    "sha256": "d595051d02fdd2000fd13e6af618952c9406ee0d8730ce99fff093a99ee39805"
+  },
+  "FE/OV_ART.VIV": {
+    "size": 72960,
+    "sha256": "fe3a2e791df25849840ae0f642daf19e3c300bd57f07a6e58a467753388564ed"
+  },
+  "FE/FENG.VIV": {
+    "size": 857860,
+    "sha256": "8a6343c1031f9d5d8124d57f06f369f0b8989e5c925879d2198feb267b048c49"
+  },
+  "FE/FENG_PAL.VIV": {
+    "size": 857468,
+    "sha256": "41bf638bf6a5e2d6b18e5aef52e96beb4425f15b17f426c509863ab15c247c30"
+  },
+  "FE/ONLINE.VIV": {
+    "size": 292588,
+    "sha256": "bec24ccc0742966c50f4e6c05305508a2525ca9053e77df39273791afcea12f1"
+  },
+  "FE/PLAYNOW.VIV": {
+    "size": 258848,
+    "sha256": "265050477b72fd9d6930669a5fd0e2122a414f45f219207c2d65f9cd570b23ab"
+  },
+  "FE/CUSTOM.VIV": {
+    "size": 134616,
+    "sha256": "2543f68e5f29fbfdff0d1b78ca42d9e694a940d87c7ab0e5a4e3460677994914"
+  },
+  "UGI/OVERLAY.VIV": {
+    "size": 42628,
+    "sha256": "fd52bda06904eca6f6e355385385cfe4cdd246d469f1bc8bfa425943a31ac90f"
+  },
+  "FPRELOAD.VIV": {
+    "size": 687320,
+    "sha256": "21ba728f3d73dbfeb8484dd6e0ee2180c4c058c5c082b9b710d99d53dc50e00f"
+  }
+}

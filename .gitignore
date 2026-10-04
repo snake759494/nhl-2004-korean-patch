@@ -1,0 +1,9 @@
+*.iso
+*.xdelta
+*.ttf
+__pycache__/
+work/
+translation/*.ko.json
+!translation/boot.ko.json
+translation/elf_offsets.ko.json
+translation/ko.json
