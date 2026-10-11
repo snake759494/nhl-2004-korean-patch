@@ -8,5 +8,16 @@
   "source_iso_md5": "2a8476852ff9a6ba5656d06e9a97fa66",
   "source_iso_sha256": "a4913c644b70802bbafcc310b4d88a89ba42a04d9eed2c6f24c650a7f4dcb7b4",
   "result_iso_size": 4691427328,
-  "result_iso_sha256": "ba88ff0232baa6ff9f9d9badfbf52d2c96452875ef70c13fe487259cd8f80491"
+  "result_iso_sha256": "ba88ff0232baa6ff9f9d9badfbf52d2c96452875ef70c13fe487259cd8f80491",
+  "widescreen": {
+    "name": "SLUS-20756_AB775F59.pnach",
+    "crc": "AB775F59",
+    "size": 787,
+    "sha256": "5a0466bb8e49f9fc74dc4075a38c3c406f7bda201065949bc60843f8f9df0849",
+    "elf_sha256": "f0461c52962254d9ffc9a052c9bed7837313b8cd605adbd9ded228e4a7ac5985",
+    "required_release_asset": true,
+    "projection_multiplier": 0.75,
+    "culling_multiplier": 1.3333333333333333,
+    "instruction_fingerprint": "905c5758d5682cda7b675fc2c2891d13838110c70323e27dafc5c5cde8f419f2"
+  }
 }

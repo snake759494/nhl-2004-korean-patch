@@ -59,5 +59,8 @@ def main():
         assert iso.read(l,s,dst)==data
     (root/'work/test-build/iso-map.json').write_text(json.dumps(mapping,indent=2))
     print('시험 ISO 구성 및 재추출 일치:',dst)
+    from prepare_widescreen_release import generate
+    companion,info=generate(dst)
+    print('필수 와이드 동봉 파일:',companion,'CRC:',info['crc'])
 
 if __name__=='__main__':main()

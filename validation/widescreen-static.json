@@ -1,0 +1,8 @@
+{
+  "crc": "AB775F59",
+  "patch": "SLUS-20756_AB775F59.pnach",
+  "mips_cases": 20,
+  "projection_x": 0.75,
+  "conservative_culling": 1.3333333333333333,
+  "passed": true
+}

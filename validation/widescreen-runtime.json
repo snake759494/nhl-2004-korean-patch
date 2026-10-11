@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-11",
+  "emulator": "PCSX2 v2.9.94",
+  "crc": "AB775F59",
+  "iso_sha256": "ba88ff0232baa6ff9f9d9badfbf52d2c96452875ef70c13fe487259cd8f80491",
+  "cold_boot": true,
+  "patch_enabled_log": true,
+  "observed": [
+    "메인 메뉴",
+    "팀/진영 선택",
+    "경기 소개",
+    "애너하임 대 뉴저지 실제 경기 진행"
+  ],
+  "not_verified": [
+    "전체 카메라와 리플레이",
+    "모든 경기장 및 게임 모드",
+    "경기 종료 및 저장/불러오기",
+    "실기",
+    "동일 프레임 4:3 대 16:9 비교"
+  ],
+  "limits": [
+    "2D 메뉴 및 HUD는 가로로 늘어날 수 있음"
+  ],
+  "evidence": [
+    {
+      "local_screenshot": "NHL 2004_SLUS-20756_20261011185122.png",
+      "sha256": "ddf1c1c8f7ecf0a8be95dd989750cae10a11e6d556fc37038ae3c107f093cff5"
+    },
+    {
+      "local_screenshot": "NHL 2004_SLUS-20756_20261011185212.png",
+      "sha256": "91f47e4747b32eb538efbb6752e9e66c21283c9278030142ff1fcfd605d33b63"
+    },
+    {
+      "local_screenshot": "NHL 2004_SLUS-20756_20261011185252.png",
+      "sha256": "7ea7072db38801fcf03e763242d575474c4640c835d6dd5d9546d327f3793b47"
+    }
+  ]
+}

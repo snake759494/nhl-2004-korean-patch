@@ -1,0 +1,22 @@
+gametitle=NHL 2004 Korean Patch
+
+[Widescreen 16:9]
+author=snake759494
+description=Hor+ 16:9. Restart after enabling or disabling.
+comment=3D horizontal projection x0.75; conservative wider culling. 2D HUD/menu art is stretched.
+gsaspectratio=16:9
+// Generated for this ELF CRC. Do not rename for another build.
+patch=1,EE,0012D188,word,08041C32
+patch=1,EE,001070C8,word,3C013F40
+patch=1,EE,001070CC,word,44811000
+patch=1,EE,001070D0,word,46020842
+patch=1,EE,001070D4,word,E6010020
+patch=1,EE,001070D8,word,0804B464
+patch=1,EE,001070DC,word,00000000
+patch=1,EE,0012D218,word,08041C38
+patch=1,EE,001070E0,word,3C013FAA
+patch=1,EE,001070E4,word,3421AAAB
+patch=1,EE,001070E8,word,4481A000
+patch=1,EE,001070EC,word,46140502
+patch=1,EE,001070F0,word,0804B488
+patch=1,EE,001070F4,word,00000000
